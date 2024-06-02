@@ -1,0 +1,30 @@
+.contact-form input:not([type='submit'])+i {
+    height: 0;
+    position: relative;
+    top: -31px;
+    left: 6px;
+    color: #757575;
+}
+
+.contact-form input {
+    padding-left: 29px;
+
+}
+
+.contact-form h1 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 900;
+    font-size: 35px;
+    letter-spacing: 1px;
+    color: #757575;
+}
+
+.contact-form .send-icon {
+    /* padding-left: ; */
+    color: #fff;
+    position: relative;
+    float: left;
+    display: block;
+    right: 140px;
+
+}
